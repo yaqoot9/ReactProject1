@@ -1,0 +1,19 @@
+.p_width{
+width: 400px;
+margin-left: 230px;
+height: 300px;
+}
+
+.pright_width{
+    width: 400px;
+   
+    height: 280px;
+    
+    }
+.About{background-color:#1abc9c;
+text-align: center;
+color: white;}
+
+.button{width: 200px;
+    height: 70px;
+margin-top: -300px;}

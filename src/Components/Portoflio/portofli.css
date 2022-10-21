@@ -1,0 +1,21 @@
+.img{
+    width: 390px;
+    height: 230px;
+}
+
+.hover:hover{
+background-color:rgb(212, 67, 140);
+opacity: .6;
+position: relative;
+}
+
+
+.plus{
+font-size: 50px;
+color: white;
+position:absolute;
+margin-left: -198px;
+margin-top: 80px;  visibility: visible;
+}
+
+.modalImg{width: 465px;}
